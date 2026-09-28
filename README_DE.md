@@ -9,16 +9,21 @@ Plotter, Lasercutter oder Druck.
 
 ## Installation
 
-1. Den Ordner in Visual Studio Code öffnen und Live Server starten (in der
-   Statusleiste auf **Go Live** klicken).
-2. **s** drücken, um die Zeichnung als `<zeitstempel>-out.svg`
-   herunterzuladen.
+Voraussetzungen: Visual Studio Code mit der Erweiterung Live Server und ein
+Browser.
 
 Bibliotheken (in `libraries/`): p5.js 1.10.0, p5.sound 1.0.1 (eingebunden,
 nicht verwendet), `p5.svg.js`
 ([p5.js-svg](https://github.com/zenozeng/p5.js-svg), SVG-Renderer für p5).
 
 Lizenz: MIT
+
+## Ausführen
+
+1. Den Ordner in Visual Studio Code öffnen und Live Server starten (in der
+   Statusleiste auf **Go Live** klicken).
+2. **s** drücken, um die Zeichnung als `<zeitstempel>-out.svg`
+   herunterzuladen.
 
 ## Coding-Hilfe
 

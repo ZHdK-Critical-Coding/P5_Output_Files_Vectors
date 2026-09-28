@@ -9,15 +9,20 @@ print.
 
 ## Installation
 
-1. Open the folder in Visual Studio Code and start Live Server (click
-   **Go Live** in the status bar).
-2. Press **s** to download the drawing as `<timestamp>-out.svg`.
+Requirements: Visual Studio Code with the Live Server extension and a
+browser.
 
 Libraries (in `libraries/`): p5.js 1.10.0, p5.sound 1.0.1 (included, not
 used), `p5.svg.js` ([p5.js-svg](https://github.com/zenozeng/p5.js-svg),
 SVG renderer for p5).
 
 License: MIT
+
+## How to Run
+
+1. Open the folder in Visual Studio Code and start Live Server (click
+   **Go Live** in the status bar).
+2. Press **s** to download the drawing as `<timestamp>-out.svg`.
 
 ## Coding Help
 
